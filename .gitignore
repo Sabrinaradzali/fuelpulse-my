@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+data/raw/*
+data/processed/*
+
+.env
+*.key
+*.pem
+
+.venv/
+venv/
