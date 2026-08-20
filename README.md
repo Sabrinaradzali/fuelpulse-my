@@ -137,7 +137,7 @@ The Streamlit dashboard connects to the analytical layer and provides interactiv
 
 The dashboard displays the latest available Malaysian fuel prices for RON95, RON97, and Diesel, together with week-over-week changes.
 
-![Latest Fuel Prices](docs/screenshots/latest-prices.png)
+![Latest Fuel Prices](docs/screenshots/latest-prices.jpg)
 
 ### Fuel Price Trend
 
