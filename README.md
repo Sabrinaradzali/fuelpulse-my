@@ -248,6 +248,18 @@ http://localhost:8501
 
 ---
 
+## Key Engineering Highlights
+
+- Built an end-to-end data engineering pipeline for Malaysian fuel price data.
+- Implemented Python-based data extraction, inspection, validation, and transformation.
+- Designed a layered Snowflake data warehouse using RAW and ANALYTICS layers.
+- Developed an interactive Streamlit dashboard for fuel price analytics.
+- Implemented historical fuel price trend analysis and weekly price movement analysis.
+- Added market statistics including average, minimum, and maximum prices by fuel type.
+- Added data quality monitoring for record count, data coverage, fuel types, and null values.
+- Used Pandas for data processing and Plotly for interactive visualisation.
+- Applied Git and GitHub for version control and project documentation.
+
 ## Security
 
 Credentials and sensitive configuration are excluded from version control.
