@@ -2,6 +2,10 @@
 
 ## Malaysian Fuel Price Analytics Platform
 
+### 🚀 Live Dashboard
+
+[View FuelPulse MY Live Dashboard](https://fuelpulse-my-rvaepagnuo92jnpkpz2bbo.streamlit.app/)
+
 FuelPulse MY is an end-to-end data engineering project for processing, validating, transforming, and analysing Malaysian retail fuel price data.
 
 The project demonstrates a practical data pipeline from data ingestion and validation through transformation and cloud data warehousing, followed by analytical visualisation through an interactive Streamlit dashboard.
