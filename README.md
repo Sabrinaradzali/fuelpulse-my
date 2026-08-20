@@ -127,9 +127,31 @@ The Streamlit dashboard connects to the analytical layer and provides interactiv
 
 ---
 
-## Dashboard
+## Dashboard Preview
 
-The dashboard provides several analytical views.
+### Latest Fuel Prices
+
+The dashboard displays the latest available Malaysian fuel prices for RON95, RON97, and Diesel, together with week-over-week changes.
+
+![Latest Fuel Prices](docs/screenshots/latest-prices.png)
+
+### Fuel Price Trend
+
+The interactive time-series chart shows historical fuel price movements from 2017 to 2026.
+
+![Fuel Price Trend](docs/screenshots/fuel-price-trend.png)
+
+### Weekly Price Movement & Market Overview
+
+The dashboard provides weekly price changes and summary statistics including average, minimum, and maximum prices by fuel type.
+
+![Weekly Price Movement](docs/screenshots/weekly-market-overview.png)
+
+### Data Quality & Pipeline Status
+
+The dashboard reports pipeline-level data quality indicators including total records, data coverage, number of fuel types, and null price counts.
+
+![Data Quality](docs/screenshots/data-quality.png)
 
 ### Latest Fuel Prices
 
